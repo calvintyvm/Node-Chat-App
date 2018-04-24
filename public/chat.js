@@ -32,5 +32,5 @@ socket.on('chat', data => {
 });
 
 socket.on('typing', data => {
-    feedback.innerHTML = '<p><em>' + data + 'is typing a mesage.... </em></p>';
+    feedback.innerHTML = '<p><em>' + data + ' is typing a mesage.... </em></p>';
 })

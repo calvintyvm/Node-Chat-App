@@ -1,5 +1,5 @@
 <h1>NodeJS Chat App</h1>
-<img src="https://i.gyazo.com/3d1a30d085600ba1adc3a83f2dbdf7a1.png" alt="https://gyazo.com/3d1a30d085600ba1adc3a83f2dbdf7a1" width="665"/>
+<img src="https://i.gyazo.com/4c75bc878fc1943a243838225aec7ce0.png" alt="https://gyazo.com/4c75bc878fc1943a243838225aec7ce0" width="1182"/>
 
 <h2>Real Time Chat App</h2>
 
