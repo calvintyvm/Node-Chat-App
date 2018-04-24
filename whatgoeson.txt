@@ -1,0 +1,11 @@
+When you click send, the event listener is listening for the button click
+Grabs the socket between the client (your browser) and emits a chat message
+to the server, sends the message and handle value
+
+The server is listening to all the sockets and when it hears the chat message, the 
+call back is fired and the data is taken in passes into as an arguement, 
+grabs all the sockets and emits the chat message, sends back the data
+to all the different client
+
+Socket is waiting on the front end with socket.on and waiting for "chat" comiing back from the server
+and callback function takes data and takes into as an arugment and now we use it.
